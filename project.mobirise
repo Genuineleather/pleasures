@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pleasures",
-    "currentPage": "Genuine Pleasures Leather Bags",
+    "currentPage": "GenuinePleasuresLeatherBags",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,11 +28,11 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "Genuine Pleasures Leather Bags": {
+    "GenuinePleasuresLeatherBags": {
       "settings": {
         "main": true,
         "title": "Genuine Pleasures Leather Bags",
-        "meta_descr": "Genuine Pleasures Leather Bags is a Proudly South African company which specialises on hand made leather bags from R650.",
+        "meta_descr": "Genuine Leather Bags is a Proudly South African company which specialises on hand made leather bags from R650.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -94,7 +94,7 @@
             }
           },
           "title": "",
-          "text": "<p><b>Genuine Handmade&nbsp;Leather&nbsp;</b><b style=\"line-height: 1.5;\">bags</b><b style=\"line-height: 1.5;\">&nbsp;<span style=\"line-height: 1.5;\">from R650 - R950.</span></b></p>",
+          "text": "<p><b>Genuine Handmade&nbsp;Leather&nbsp;</b><b style=\"line-height: 1.5;\">bags</b><b style=\"line-height: 1.5;\">&nbsp;<span style=\"line-height: 1.5;\">from R650</span></b></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE BELOW</a>"
         },
         {
@@ -114,7 +114,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-141341-1-1-2000x1879-800x751.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-141341-1-1-2000x1879.jpg",
-                "caption": "Zebra Bag R950",
+                "caption": "Zebra Bag R750",
                 "active": false
               },
               {
@@ -124,7 +124,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-135501-2000x2159-800x863.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-135501-2000x2159.jpg",
-                "caption": "Brown leather bag R950",
+                "caption": "Brown leather bag R750",
                 "active": false
               },
               {
@@ -134,7 +134,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-142004-2000x2598-800x1039.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-142004-2000x2598.jpg",
-                "caption": "Soft Calf leather bag R950",
+                "caption": "Soft Calf leather bag R750",
                 "active": false
               },
               {
@@ -144,7 +144,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-142309-2000x2734-800x1093.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-142309-2000x2734.jpg",
-                "caption": "Tan and Gray R850",
+                "caption": "Tan and Gray R750",
                 "active": true
               }
             ],
@@ -176,24 +176,14 @@
             "paddingBottom": "2",
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20170418-141341-1-1-2000x1879-800x751.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20170418-141341-1-1-2000x1879.jpg",
-                "caption": "Cross Zebra Design &nbsp;R950",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-135259-2000x2783-800x1113.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-135259-2000x2783.jpg",
-                "caption": "Vintage &nbsp;Bag R950",
-                "active": false
+                "caption": "Vintage &nbsp;Bag R750",
+                "active": true
               },
               {
                 "tags": "Creative",
@@ -202,7 +192,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-140339-2000x2047-800x818.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-140339-2000x2047.jpg",
-                "caption": "Traditonal Round &nbsp;Shape &nbsp;R850&nbsp;",
+                "caption": "Traditonal Round &nbsp;Shape &nbsp;R750&nbsp;",
                 "active": false
               },
               {
@@ -212,7 +202,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-135635-2000x1988-800x795.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-135635-2000x1988.jpg",
-                "caption": "Genuine Leather Bag R950&nbsp;",
+                "caption": "Genuine Leather Bag R750&nbsp;",
                 "active": false
               },
               {
@@ -222,8 +212,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-135835-2000x2797-800x1118.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-135835-2000x2797.jpg",
-                "caption": "Fine Horse Leather R950",
-                "active": true
+                "caption": "Fine Horse Leather R750",
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -262,7 +252,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-141049-2000x2693-800x1077.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-141049-2000x2693.jpg",
-                "caption": "Vintage Leather with a ZIP R850",
+                "caption": "Vintage Leather with a ZIP R750",
                 "active": false
               }
             ],
