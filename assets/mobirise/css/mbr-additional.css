@@ -413,7 +413,7 @@ h6,
 }
 #msg-box5-a P {
   font-size: 24px;
-  text-align: left;
+  text-align: center;
 }
 #gallery3-0 .mbr-gallery-item > div > span {
   text-align: right;
@@ -440,6 +440,7 @@ h6,
 }
 #ext_menu-7 .navbar-caption {
   color: #ffffff;
+  font-size: 14px;
 }
 #ext_menu-7 .navbar-toggler {
   color: #ffffff;

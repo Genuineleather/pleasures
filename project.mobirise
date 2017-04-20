@@ -46,7 +46,7 @@
           "_styles": {
             "P": {
               "font-size": "24px",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_anchor": "msg-box5-a",
@@ -94,7 +94,7 @@
             }
           },
           "title": "",
-          "text": "<p><b>Genuine Handmade&nbsp;Leather&nbsp;</b><b style=\"line-height: 1.5;\">bags</b><b style=\"line-height: 1.5;\">&nbsp;<span style=\"line-height: 1.5;\">from R650</span></b></p>",
+          "text": "<p><b>Genuine Handmade&nbsp;</b></p><p><b>Leather&nbsp;</b><b style=\"line-height: 1.5;\">bags</b><b style=\"line-height: 1.5;\">&nbsp;<span style=\"line-height: 1.5;\">from</span></b></p><p><b style=\"line-height: 1.5;\"><span style=\"line-height: 1.5;\">R650</span></b></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE BELOW</a>"
         },
         {
@@ -222,7 +222,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-135125-2000x1584-800x633.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-135125-2000x1584.jpg",
-                "caption": "Sling purse R650",
+                "caption": "&nbsp;Navy Sling purse R650",
                 "active": false
               },
               {
@@ -242,7 +242,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/20170418-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20170418-2000x1125.jpg",
-                "caption": "Gray leather &amp; zebra cross R650",
+                "caption": "Tan Sling Purse R650",
                 "active": false
               },
               {
@@ -450,7 +450,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "14px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
